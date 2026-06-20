@@ -1,0 +1,8 @@
+Package: com.sigmabotg.universalvip
+Name: UniversalVIP
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Premium Unlock - All Features
+Author: sigmabotg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
